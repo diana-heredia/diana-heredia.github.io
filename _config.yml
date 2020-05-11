@@ -42,6 +42,7 @@ curriculum:
 theme: academic
 plugins:
   - jekyll-feed
+  - jekyll-data
 
 # Exclude from processing.
 # The following items will not be processed, by default.

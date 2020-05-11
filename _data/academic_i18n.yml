@@ -1,8 +1,8 @@
 months:
   fr: ["janvier", "février", "mars", "avril", "mai", "juin",
        "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
-  es: ["Enero","Febrero", "Marzo", "Abril", "Junio", "Julio", "Agosto"
-  "Septiembre", "Octubre, "Noviembre", "Diciembre"]
+  es: ["Enero","Febrero", "Marzo", "Abril", "Junio", "Julio", "Agosto",
+  "Septiembre", "Octubre", "Noviembre", "Diciembre"]
 dateformat:
   fr: "%e %B %Y"
   en: "%b %-d, %Y"

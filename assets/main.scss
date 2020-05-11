@@ -3,24 +3,24 @@
 ---
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:800|PT+Serif');
 
 // Our variables
-// $base-font-family: "Montserrat", sans-serif;
-$base-font-family: "Cormorant Garamond", serif;
+// $base-font-family: "Open Sans", sans-serif;
+$base-font-family: "PT Serif", serif;
 $base-font-size:   20px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
-$alt-font-family: "Montserrat", sans-serif;
+$alt-font-family: "Open Sans", sans-serif;
 $alt-font-weight: bold;
 
 $spacing-unit:     50px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      ##b7c979;
+$brand-color:      #d33682;
 
 $grey-color:       #3F3F3F;
 $grey-color-light: lighten($grey-color, 50%);
