@@ -1,5 +1,8 @@
-
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/7e252fa8460c2278df772e6dfbf4934329e2f03a9174070b70d0883886b435
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 .DS_Store
-_site/.DS_Store
-_site/.DS_Store
-_site/assets/.DS_Store
