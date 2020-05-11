@@ -5,7 +5,7 @@
 layout: about
 title: About me
 invisible: true
-permalink: /en/
+permalink: 
 ---
 I'm a History Ph.D student at the University of Texas at Austin. My current
 research focuses on the circulation of material culture and lay knowledge in
