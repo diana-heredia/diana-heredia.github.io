@@ -23,7 +23,7 @@ description:
   en: I am a training historian and a former biologist.
   es: Soy doctorante en historia y además bióloga de formación.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://diana-heredia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 langs: ["en", "es"]
 defaults:
   - scope:
