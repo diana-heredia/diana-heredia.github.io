@@ -36,8 +36,8 @@ email: diana.heredia@utexas.edu
 twitter_username: dheredial
 github_username: diana-heredia
 linkedin_username: dheredial
-curriculum:
-  url: "diana-heredia.github.io/2023-01-Academic_CV_01.pdf"
+curriculum: 
+  url: "https://raw.githubusercontent.com/diana-heredia/diana-heredia.github.io/master/2023-01-Academic_CV_01.pdf"
 
 # Build settings
 theme: academic
