@@ -7,8 +7,4 @@ title: About me
 invisible: true
 permalink: 
 ---
-I'm a History Ph.D student at the University of Texas at Austin. My current
-research focuses on the circulation of material culture and lay knowledge in
-local communities from New Spain.
-I have a B.Sc in Biology from the National Autonomous University of Mexico
-(UNAM) and have specialized since 2012 in the history of science.
+I am a Ph.D candidate in the Department of History at the University of Texas at Austin. I was originally trained as a biologist in Mexico (B.Sc. Biology, UNAM) and have specialized in the history of science and colonialism since 2012. My current research uses dye cultivation and commerce as a lens to explore early modern Hispanic extractivism, knowledge production, and material culture. 
