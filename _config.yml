@@ -40,10 +40,12 @@ curriculum:
   url: "https://raw.githubusercontent.com/diana-heredia/diana-heredia.github.io/master/2023-01-Academic_CV_01.pdf"
 
 # Build settings
-theme: academic
+#theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
   - jekyll-data
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

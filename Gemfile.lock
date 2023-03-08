@@ -1,8 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    academic (0.5.8)
-      jekyll-data (~> 1.0)
     activesupport (7.0.4.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
@@ -257,11 +255,11 @@ PLATFORMS
   x86_64-darwin-13
 
 DEPENDENCIES
-  academic
   github-pages (~> 228)
   jekyll (~> 3.9.3)
   jekyll-data
   jekyll-feed
+  jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
   webrick (~> 1.8)
