@@ -6,7 +6,9 @@ permalink: /en/writing/
  <div>
   <h2>Public and Digital Scholarship</h2>
  <ul> 
-  <li></li><a href="https://lab.plant-humanities.org/ayahuasca/">“Ayahuasca: Amazonian Plant Lessons”</a>, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article </li>
+  <li><a href="https://lab.plant-humanities.org/ayahuasca/">“Ayahuasca: Amazonian Plant Lessons”</a>, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article </li>
+
+  <li><a href="https://letraslibres.com/revista/los-conquistadores-invisibles/">“Los conquistadores invisibles”</a>, <i>Letras Libres</i>, No. 252, December 2019. Public History Article in Spanish</li>
 
 <li><a href="https://witchcraftinnewspain.wordpress.com/">A Witch in New Spain, May 2019 </a>- Public History Website about an eighteenth-century report on withcraft in Central Mexico. </li>
 Document transcription is accompanied by two blogs that contextualize the report:
@@ -20,7 +22,7 @@ Document transcription is accompanied by two blogs that contextualize the report
  
  <div>
   <h2>Academic Scholarship</h2>
-  <ul></ul>
+  <ul>
   <li>“When Nopales and Papers Proliferate: Grounding Cochineal Cultivation in Imperial and Local Bureaucracies”, <i> Article in preparation for submission </i></li> 
 
   <li> Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–  78. <a href="https://doi.org/10.1017/ahss.2022.56 ">doi:10.1017/ahss.2022.56</a>. (trans. Laurent Vannini)</li> 
