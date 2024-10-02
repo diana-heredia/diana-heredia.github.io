@@ -25,6 +25,6 @@ Document transcription is accompanied by two blogs that contextualize the report
   <ul>
   <li>“When Nopales and Papers Proliferate: Grounding Cochineal Cultivation in Imperial and Local Bureaucracies”, <i> Article in preparation for submission </i></li> 
 
-  <li> Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–  78. <a href="https://doi.org/10.1017/ahss.2022.56 ">doi:10.1017/ahss.2022.56</a>. (trans. Laurent Vannini)</li> 
+  <li> Book Review: Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–  78. <a href="https://doi.org/10.1017/ahss.2022.56 ">doi:10.1017/ahss.2022.56</a>. (trans. Laurent Vannini)</li> 
 </ul>
 </div>
