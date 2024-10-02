@@ -7,4 +7,5 @@ title: About me
 invisible: true
 permalink: 
 ---
-I am a Ph.D candidate in the Department of History at the University of Texas at Austin. I was originally trained as a biologist in Mexico (B.Sc. Biology, UNAM) and have specialized in the history of science and colonialism since 2012. My current research uses dye cultivation and commerce as a lens to explore early modern Hispanic extractivism, knowledge production, and material culture. 
+I am an interdisciplinary scholar of science and colonialism in the early modern world. My research and writing focus on commodity and knowledge production in Indigenous Mesoamerica and the Spanish Atlantic, as well as their unexpected itineraries outside these geographies. Originally trained as a biologist and historian of science in Mexico (B.Sc. Biology, UNAM), I am broadly interested in exploring how the natural world has become part of different visual and material cultures. As an educator and historian of Latin America (Ph.D. candidate, UT-Austin), my teaching and public scholarship challenge entrenched assumptions about the Global South by bringing to life stories about people, knowledge, and nature. 
+
