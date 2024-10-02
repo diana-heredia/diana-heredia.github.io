@@ -6,11 +6,11 @@ permalink: /en/writing/
  <div>
   <h2>Public and Digital Scholarship</h2>
  <ul> 
-  <li><a href="https://lab.plant-humanities.org/ayahuasca/">“Ayahuasca: Amazonian Plant Lessons”</a>, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article </li>
+  <li><a href="https://lab.plant-humanities.org/ayahuasca/">“Ayahuasca: Amazonian Plant Lessons”</a>, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article.</li>
 
-  <li><a href="https://letraslibres.com/revista/los-conquistadores-invisibles/">“Los conquistadores invisibles”</a>, <i>Letras Libres</i>, No. 252, December 2019. Public History Article in Spanish</li>
+  <li><a href="https://letraslibres.com/revista/los-conquistadores-invisibles/">“Los conquistadores invisibles”</a>, <i>Letras Libres</i>, No. 252, December 2019. Public History Article in Spanish.</li>
 
-<li><a href="https://witchcraftinnewspain.wordpress.com/">A Witch in New Spain</a>, May 2019. Public History Website about an eighteenth-century report on withcraft in Central Mexico </li>
+<li><a href="https://witchcraftinnewspain.wordpress.com/">A Witch in New Spain</a>, May 2019. Public History Website about an eighteenth-century report on withcraft in Central Mexico. </li>
 Document transcription is accompanied by two blogs that contextualize the report:
  <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-1/">"Creoles Intellectuals Against the Devil and Idolatry"</a>
  <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-2/">"The Actual Craft of a Witch, Explained through Objects"</a>
