@@ -12,7 +12,7 @@ permalink: /en/writing/
 
 <li><a href="https://witchcraftinnewspain.wordpress.com/">A Witch in New Spain</a>, May 2019. Public History Website about an eighteenth-century report on withcraft in Central Mexico. </li>
 Document transcription is accompanied by two blogs that contextualize the report:
- <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-1/">"Creoles Intellectuals Against the Devil and Idolatry"</a>
+ <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-1/">"Creole Intellectuals Against the Devil and Idolatry"</a>
  <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-2/">"The Actual Craft of a Witch, Explained through Objects"</a>
 <br>Listed in <i> <a href="https://oieahc.wm.edu/digital-projects/the-octo/the-octo-archive/">The Octo Archive, Blogging Early America</a> </i>
 
