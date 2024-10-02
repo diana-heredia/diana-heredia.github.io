@@ -3,18 +3,24 @@ layout: page
 title: Writing
 permalink: /en/writing/
 ---
- <b>Public and Digital Scholarship</b>
-“Ayahuasca: Amazonian Plant Lessons”, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article
+ <div>
+  <h1>Public and Digital Scholarship</h1>
+ <p> <a href="https://lab.plant-humanities.org/ayahuasca/">“Ayahuasca: Amazonian Plant Lessons”</a>, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article </p>
 
-A Witch in New Spain, May 2019 - Public History Website about an eighteenth-century report on withcraft in Central Mexico. 
-Listed in The Octo, Blogging Early America 
-I prepared the document transcription, wrote two blogs to contextualize the document, and a teaching lesson on global and local tales of withcraft
-"Creoles Intellectuals Against the Devil and Idolatry" 
-"The Actual Craft of a Witch, Explained through Objects"
+<p><a href="https://witchcraftinnewspain.wordpress.com/">A Witch in New Spain, May 2019 </a>- Public History Website about an eighteenth-century report on withcraft in Central Mexico. 
+Document transcription is accompanied by two blogs that contextualize the report:
+ <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-1/">"Creoles Intellectuals Against the Devil and Idolatry"</a>
+ <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-2/">"The Actual Craft of a Witch, Explained through Objects"</a>
+<br>Listed in <i> <a href="https://oieahc.wm.edu/digital-projects/the-octo/the-octo-archive/">The Octo Archive, Blogging Early America</a> </i>
+</p>
+<p><a href="https://arcg.is/0jKKez">“Setting Materia Medica in Place: Apothecary Shops in Eighteenth-Century New Spain”</a>, November 2017. Digital showcase made in StoryMaps. 
 
-“Setting Materia Medica in Place: Apothecary Shops in Eighteenth-Century New Spain”, November 2017 - Digital showcase made in StoryMaps. 
+ </div>
  
- <b>Academic Scholarship</b>
- “When Nopales and Papers Proliferate: Grounding Cochineal Cultivation in Imperial and Local Bureaucracies”, <i> Article in preparation for submission </i>
+ <div>
+  <h1>Academic Scholarship</h1>
+  <p>“When Nopales and Papers Proliferate: Grounding Cochineal Cultivation in Imperial and Local Bureaucracies”, <i> Article in preparation for submission </i></p> 
 
-Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–78. doi:10.1017/ahss.2022.56. (trans. Laurent Vannini)
+  </p> Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–  78. <a href="https://doi.org/10.1017/ahss.2022.56 ">doi:10.1017/ahss.2022.56</a>. (trans. Laurent Vannini)</p> 
+
+</div>
