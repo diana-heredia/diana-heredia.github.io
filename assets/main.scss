@@ -3,24 +3,24 @@
 ---
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Gowun+Batang&display=swap');
 
 // Our variables
-// $base-font-family: "Quicksand", sans-serif;
+// $base-font-family: "Gowun+Batang", sans-serif;
 $base-font-family: "Cormorant Garamond", serif;
 $base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
-$alt-font-family: "Quicksand", sans-serif;
+$alt-font-family: "Gowun Batang", sans-serif;
 $alt-font-weight: bold;
 
 $spacing-unit:     50px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #b6c94f;
+$brand-color:      #7a8067;
 
 $grey-color:       #3F3F3F;
 $grey-color-light: lighten($grey-color, 50%);
