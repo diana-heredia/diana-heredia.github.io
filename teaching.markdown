@@ -19,7 +19,7 @@ permalink: /en/teaching/
  <li>The Black Power Movement (Fall 2020)</li>
  <li>History of the United States 1865-Present (Fall 2018)</li>
 </ul>
-<h3><b>Previous Experience</h3>
+<h3>Previous Experience</h3>
 <ul>
  <li>High School Teacher, Secondary School Division, Universidad del Valle de Atemajac, Guadalajara, México. (Bilingual courses on Environmental Sciences and Biology, 2016-2017)</li>
 </ul>
