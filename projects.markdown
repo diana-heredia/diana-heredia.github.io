@@ -6,7 +6,7 @@ permalink: /en/writing/
  <div>
   <h2>Public and Digital Scholarship</h2>
  A brief excerpt about my research in <i>Las cosas tienen vida</i>, a podcast that brings together objects and research stories from Spanish-speaking scholars
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/una-tela-te%C3%B1ida-m%C3%A9xico/id1562622592?i=1000554024593"></iframe>
+  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/una-tela-te%C3%B1ida-m%C3%A9xico/id1562622592?i=1000554024593"> </iframe>
   
  <ul> 
   <li><a href="https://lab.plant-humanities.org/ayahuasca/">“Ayahuasca: Amazonian Plant Lessons”</a>, Dumbarton Oaks, Plant Humanities Lab, July 2022. Co-authored Public History Article.</li>
