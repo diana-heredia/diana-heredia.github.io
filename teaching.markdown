@@ -16,7 +16,7 @@ permalink: /en/teaching/
 <h4>US History</h4>
 <ul><li>History of the United States 1492-1865 (Summer 2020, Spring 2021, Summer 2024, Fall 2024)</li>
  <li>The Black Power Movement (Fall 2020)</li>
- <li>History of the United States 1865-Present (Fall 2018)</li>
+ <li>History of the United States 1865-Present (Fall 2018, Summer 2025)</li>
 </ul>
 <h3>Previous Experience</h3>
 <ul>
