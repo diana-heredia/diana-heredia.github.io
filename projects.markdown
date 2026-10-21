@@ -21,7 +21,7 @@ Document transcription is accompanied by two blogs that contextualize the report
  <br><a href="https://witchcraftinnewspain.wordpress.com/en/blog-2/">"The Actual Craft of a Witch, Explained through Objects"</a>
 <br>Listed in <i> <a href="https://oieahc.wm.edu/digital-projects/the-octo/the-octo-archive/">The Octo Archive, Blogging Early America</a> </i>
 
-<li><a href="https://arcg.is/0jKKez">“Setting Materia Medica in Place: Apothecary Shops in Eighteenth-Century New Spain”</a>, November 2017. Digital showcase made in StoryMaps. </li>
+<li><a href="https://arcg.is/1XGjyD4">“Setting Materia Medica in Place: Apothecary Shops in Eighteenth-Century New Spain”</a>, November 2017 (Updated October 2026). Digital showcase made in StoryMaps. </li>
 </ul>
  </div>
  
@@ -29,7 +29,8 @@ Document transcription is accompanied by two blogs that contextualize the report
   <h2>Academic Scholarship</h2>
   <ul>
   <li>“When Nopales and Papers Proliferate: Reading Knowledge, Politics, and Ecologies in Cochineal Cultivation Visual Culture (1599-1620)”, <i> Article under revision for resubmission</i></li> 
-
-  <li> Book Review: Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–  78. <a href="https://doi.org/10.1017/ahss.2022.56 ">doi:10.1017/ahss.2022.56</a>. (trans. Laurent Vannini)</li> 
+  <li>Book Review: Carlos Marichal and David Pretel (Eds.), "Colours, Commodities and the Birth of Globalization: A History of the Natural Dyes of the Americas, 1500–2000", <i>Hispanic American Historical Review.</i> 106 (2): 317–318. <a href="https://doi.org/10.1215/00182168-12333859">doi:10.1215/00182168-12333859</a>. </li>
+ 
+  <li> Book Review: Bradley Skopyk, “Colonial Cataclysms: Climate, Landscape, and Memory in Mexico’s Little Ice Age”, <i>Annales. Histoire, Sciences Sociales.</i> 77, no 1 (2022), 176–78. <a href="https://doi.org/10.1017/ahss.2022.56 ">doi:10.1017/ahss.2022.56</a>. (trans. Laurent Vannini)</li> 
 </ul>
 </div>
